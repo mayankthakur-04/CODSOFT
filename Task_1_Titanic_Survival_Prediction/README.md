@@ -65,7 +65,7 @@ The dataset contains information about Titanic passengers, including:
 2. Open the Jupyter Notebook
    ```bash
    jupyter notebook
-3. Open titanic_analysis.ipynb.
+3. Open titanic_analysis.ipynb (Place the CSV file in the same folder as the notebook)
 
 4. Run all cells to see the results.
 
