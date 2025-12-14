@@ -71,7 +71,7 @@ This task focuses on handling imbalanced datasets and evaluating classification 
 ## ▶️ How to Run the Projects
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/codesoft.git
+   git clone https://github.com/mayankthakur-04/codesoft.git
 Navigate to any task folder.
 
 Open the Jupyter Notebook.
@@ -94,5 +94,7 @@ Working with real-world datasets
 
 📬 Author
 [MAYANK THAKUR]
+
 Computer Science Engineering Student (Data Science)
+
 CodeSoft Virtual Internship Participant
