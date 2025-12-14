@@ -140,15 +140,21 @@ Movie-Rating-Prediction/
 
 ## How to Run the Project
 
-Clone this repository
+1.Clone this repository
 
-Download the dataset from Kaggle
+2.Download the dataset from Kaggle
 
-Place IMDb_India_Movies.csv in the project directory
+3.Place IMDb_India_Movies.csv in the project directory
 
-Open movie_rating_prediction.ipynb
+4.Open movie_rating_prediction.ipynb
 
-Run all cells sequentially
+5.Run all cells sequentially
+
+## Note:
+
+**Load dataset with proper encoding**
+
+df = pd.read_csv('IMDb_India_Movies.csv', encoding='latin1')
 
  ## Conclusion
 
