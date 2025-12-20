@@ -1,12 +1,12 @@
 # Titanic Survival Prediction
 
-## 📌 Project Overview
+##  Project Overview
 This project aims to build a machine learning model that predicts whether a passenger survived the Titanic disaster based on demographic and travel-related information.  
 It is a classic beginner-level data science project that demonstrates the complete machine learning workflow.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The dataset contains information about Titanic passengers, including:
 - Passenger Class (Pclass)
 - Sex
@@ -22,7 +22,7 @@ The dataset contains information about Titanic passengers, including:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas
@@ -31,7 +31,7 @@ The dataset contains information about Titanic passengers, including:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 1. **Data Loading**
    - Loaded the Titanic dataset using Pandas.
 
@@ -54,13 +54,13 @@ The dataset contains information about Titanic passengers, including:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 - **Accuracy:** ~82%
 - The model performs well in distinguishing between survivors and non-survivors.
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Clone the repository or download the project folder.
 2. Open the Jupyter Notebook
    ```bash
@@ -69,7 +69,7 @@ The dataset contains information about Titanic passengers, including:
 
 4. Run all cells to see the results.
 
-## 🎯Learning Outcomes
+## Learning:
 
 Understanding data preprocessing techniques
 
