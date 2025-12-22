@@ -11,6 +11,7 @@ false positives and false negatives.
 
 ##  Dataset
 - Source: Kaggle – Credit Card Fraud Detection
+- Dataset link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Transactions by European cardholders
 - Highly imbalanced dataset (fraud vs non-fraud)
 
@@ -44,7 +45,7 @@ Random Forest is selected as the final model due to better Recall and F1-score.
 
 ##  How to Run
 
-1. Download the Credit_Card_Fraud_Detection.ipynb and Dataset(creditcard.csv)
+1. Download the Credit_Card_Fraud_Detection.ipynb and Dataset(creditcard.csv from Kaggle)  
    
 2. Place the Credit_Card_Fraud_Detection.ipynb and creditcard.csv in the same folder.
 
