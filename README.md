@@ -5,7 +5,7 @@ Each task focuses on applying Python and machine learning techniques to solve re
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas
@@ -15,7 +15,7 @@ Each task focuses on applying Python and machine learning techniques to solve re
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 Each task is organized in a separate folder containing:
 - A Jupyter Notebook with complete implementation
 - The dataset used for the task
@@ -36,7 +36,7 @@ codesoft/
 
 ---
 
-## 📌 Tasks Overview
+## Tasks Overview
 
 ### **Task 1: Titanic Survival Prediction**
 Build a machine learning model to predict whether a passenger survived the Titanic disaster based on features such as age, gender, ticket class, and fare.  
@@ -68,7 +68,7 @@ This task focuses on handling imbalanced datasets and evaluating classification 
 
 ---
 
-## ▶️ How to Run the Projects
+##  How to Run the Projects
 1. Clone this repository:
    ```bash
    git clone https://github.com/mayankthakur-04/codesoft.git
@@ -78,7 +78,7 @@ Open the Jupyter Notebook.
 
 Run all cells to see the results.
 
-🎯 Internship Learnings:
+ Internship Learnings:
 
 Through this internship projects i strengthen practical knowledge in:
 
@@ -92,7 +92,7 @@ Model evaluation
 
 Working with real-world datasets
 
-📬 Author
+ Author
 [MAYANK THAKUR]
 
 Computer Science Engineering Student (Data Science)
